@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">Disconnect</string>
+    <string name="dysconnect">Dysconnect</string>
+    <string name="cr_er_ou_rejoindre_une_partie">Créer ou rejoindre une partie</string>
+    <string name="cr_er_une_partie">Créer une partie</string>
+    <string name="rejoindre_une_partie">Rejoindre une partie</string>
+    <string name="cr_er_n_ou_n_rejoindre_une_partie">Créer \n ou \n rejoindre une partie</string>
+    <string name="cr_ation_de_la_partie">Création de la partie:</string>
+    <string name="code_secret_facultatif">Code secret (facultatif)</string>
+    <string name="nom_de_la_partie">Nom de la partie</string>
+    <string name="cr_er">Créer</string>
+    <string name="title_activity_rejoindre">Rejoindre</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+
+    <string name="hello_first_fragment">Hello first fragment</string>
+    <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+    <string name="en_attente_de_joueurs">En attente de joueurs...</string>
+    <string name="lancer_la_partie">Lancer la partie</string>
+    <string name="nombre_de_joueurs">Nombre de joueurs:</string>
+    <string name="entrez_le_num_ro_de_partie">Entrez le numéro de partie :</string>
+    <string name="pseudo">Pseudo :</string>
+    <string name="lettres_et_chiffres_uniquement_pas_de_caract_res_sp_ciaux">(Lettres et chiffres uniquement, pas de caractères spéciaux)\n(MAX: 15 caractères)</string>
+    <string name="funkybaby99">FunkyBaby99</string>
+</resources>
