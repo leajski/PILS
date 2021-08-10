@@ -31,3 +31,5 @@ Voir la [Documentation](https://docs.google.com/document/d/1Q3eJROtHBd83r9aKT_37
 Ouvrir le dossier Disconnect dans Android Studio.
 Compilez et lancez l'application sur l'émulateur de téléphone, ou sur votre propre smartphone si vous le pouvez (Android).
 
+**Projet de groupe réalisé par Mathilda Legeay, Beatriz de Carvalho, Léa Juskiewenski, Martin Calvinhac, Jean Farouil, Arthur Wilbrod.**
+
