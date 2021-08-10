@@ -1,16 +1,33 @@
-Pour lancer le serveur, depuis la machine hébérgeante:
+## Projet PILS - Projet Innovant Lean Startup - TC 2021
 
--> dans le dossier Server/
---* javac server.java
---* java server
+# Dysco : une application pour se déconnecter en groupe
 
-le debugger se situe dans Server/test/
-(depuis le dossier Server/)
---* javac test/debugger.java
---* java test/debugger
+L'application Dysco vise à lutter contre l'addiction aux smartphones en proposant un jeu de groupe ludique pour se déconnecter.
 
--- FONCTIONNEMENT --
-Dans le debugger écrirer les message comme ils devraient être envoyés (PROTOCOLE:ATTRIBUTS) [VOIR DOC: https://docs.google.com/document/d/1Q3eJROtHBd83r9aKT_371ztg3jXKyD29RDiFgIepqk4]
+Connectez-vous à plusieurs, déterminez un gage pour le perdant et lancez une partie Dysco. Ne touchez plus à votre téléphone de la soirée: chaque utilisation d'une application ou consultation d'une notification vous fait perdre des points. A la fin de votre soirée, quittez la partie, le dernier du classement doit effectuer le gage.
 
-(dans le terminal du server on recevra le message et selon, il pourra le traiter ou non)
+# Lancer le serveur
+
+Depuis la machine hébergeante, dans le dossier Server/
+
+```
+javac server.java
+java server
+```
+
+Le debugger se situe dans Server/test/. Pour le lancer, depuis le dossier Server/ :
+
+```
+javac test/debugger.java
+java test/debugger
+```
+
+Dans le debugger, écrivez les message comme ils devraient être envoyés (format: PROTOCOLE:ATTRIBUTS).
+Voir la [Documentation](https://docs.google.com/document/d/1Q3eJROtHBd83r9aKT_371ztg3jXKyD29RDiFgIepqk4.
+
+
+# Lancer l'application
+
+Ouvrir le dossier Disconnect dans Android Studio.
+Compilez et lancez l'application sur l'émulateur de téléphone, ou sur votre propre smartphone si vous le pouvez (Android).
 
